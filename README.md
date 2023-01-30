@@ -2,8 +2,8 @@
 
 . Run these commands.
 ```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/Duplicate-Line-Remover/main/Duplicate-Line-Detector.sh
+curl -LO https://raw.githubusercontent.com/MichaelSebero/Duplicate-Line-Remover/main/Duplicate-Line-Remover.sh
 
-sh Duplicate-Line-Detector.sh
+sh Duplicate-Line-Remover.sh
 ```
 . Your list without duplicate lines will be in your /home directory.
