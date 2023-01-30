@@ -1,4 +1,4 @@
-##How to use Duplicate-Line-Remover
+## How to use Duplicate-Line-Remover
 
 . Run these commands.
 ```
