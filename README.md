@@ -6,4 +6,4 @@ curl -LO https://raw.githubusercontent.com/MichaelSebero/Duplicate-Line-Remover/
 
 sh Duplicate-Line-Detector.sh
 ```
-. Your output without duplicate lines will be in your home directory.
+. Your list without duplicate lines will be in your home directory.
